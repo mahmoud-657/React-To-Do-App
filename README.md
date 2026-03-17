@@ -1,21 +1,59 @@
-# React + Vite
+# 📝 React To-Do App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **To-Do List Application** built with React and Vite.  
+This project allows users to register, log in, and manage their personal tasks efficiently through a clean and interactive UI.  
+It was developed as a practical project after learning core frontend technologies and is now part of my portfolio.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- User Registration (Sign Up)
+- User Authentication (Login)
+- Create new tasks
+- Edit existing tasks
+- Delete tasks
+- View all tasks
+- API integration for persistent data storage
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+## 🧰 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-"# React-To-Do-App" 
-"# React-To-Do-App" 
-"# React-To-Do-App" 
-"# React-To-Do-App" 
-"# React-To-Do-App" 
+- React
+- Vite
+- Tailwind CSS
+- Flowbite
+- REST API
+- JavaScript (ES6+)
+
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the Repository
+git clone https://github.com/mahmoud-657/React-To-Do-App.git
+cd React-To-Do-App
+
+### 2️⃣ Install Dependencies
+npm install
+
+### 3️⃣ Run the Development Server
+npm run dev
+
+
+🧠 How It Works
+
+Authentication allows users to securely access their own tasks.
+CRUD operations (Create, Read, Update, Delete) are handled through API requests.
+Application state ensures real-time UI updates.
+Tailwind CSS and Flowbite provide a modern and responsive design.
+
+
+🎯 Purpose of the Project
+
+This project was built as a hands-on application after learning React, Vite, Tailwind CSS, and API integration.
+It demonstrates my ability to:
+
+Build a complete frontend application.
+Integrate with REST APIs.
+Implement authentication flows.
+Manage application state.
+Structure scalable React projects.
