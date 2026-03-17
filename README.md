@@ -41,10 +41,10 @@ npm run dev
 
 ## 🧠 How It Works
 
-Authentication allows users to securely access their own tasks.
-CRUD operations (Create, Read, Update, Delete) are handled through API requests.
-Application state ensures real-time UI updates.
-Tailwind CSS and Flowbite provide a modern and responsive design.
+- Authentication allows users to securely access their own tasks.
+- CRUD operations (Create, Read, Update, Delete) are handled through API requests.
+- Application state ensures real-time UI updates.
+- Tailwind CSS and Flowbite provide a modern and responsive design.
 
 
 ## 🎯 Purpose of the Project
@@ -52,8 +52,8 @@ Tailwind CSS and Flowbite provide a modern and responsive design.
 This project was built as a hands-on application after learning React, Vite, Tailwind CSS, and API integration.
 It demonstrates my ability to:
 
-Build a complete frontend application.
-Integrate with REST APIs.
-Implement authentication flows.
-Manage application state.
-Structure scalable React projects.
+- Build a complete frontend application.
+- Integrate with REST APIs.
+- Implement authentication flows.
+- Manage application state.
+- Structure scalable React projects.
